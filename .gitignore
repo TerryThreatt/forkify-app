@@ -1,5 +1,8 @@
 # node
 node_modules
 
-#config pk
+# config pk
 config.js
+
+# dist
+/dist
